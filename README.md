@@ -60,7 +60,7 @@ The rat enemy uses simple behavior: it normally patrols back and forth, but will
 
 The player can use the **roll** to avoid incoming attacks and the **wall jump** to climb vertical sections of the environment.
 
-<video src=https://github.com/user-attachments/assets/abf6633b-58cd-4daa-a528-000fc33d28cc" muted autoplay loop width="100%"></video>
+<video src="https://github.com/user-attachments/assets/abf6633b-58cd-4daa-a528-000fc33d28cc" muted autoplay loop width="100%"></video>
 
 
 ## Development Status
