@@ -35,11 +35,13 @@ The main menu currently contains two functional options:
 
 ![Main Menu](https://github.com/user-attachments/assets/3b6d9cb5-02d1-4ef9-9008-2f30347b866b)
 
+
 ## Movement and Map Travel
 
 This gameplay demonstration shows the player's basic movement, transitioning between maps, entering the player's house, and collecting an item.
 
-https://github.com/user-attachments/assets/13761dcf-f122-46f9-9a43-6fda4b9db32d
+<video src="https://github.com/user-attachments/assets/13761dcf-f122-46f9-9a43-6fda4b9db32d" muted autoplay loop width="100%"></video>
+
 
 ## Inventory and Equipment
 
@@ -47,7 +49,8 @@ The inventory system allows the player to inspect, use, and equip collected item
 
 One of the ideas behind the system was to provide **visual feedback for each piece of equipment**, allowing the player's equipment changes to be reflected directly on the character.
 
-https://github.com/user-attachments/assets/13929367-e8dd-42f3-a65d-e66116352048
+<video src="https://github.com/user-attachments/assets/13929367-e8dd-42f3-a65d-e66116352048" muted autoplay loop width="100%"></video>
+
 
 ## Combat, Dodge, and Wall Jump
 
@@ -57,7 +60,8 @@ The rat enemy uses simple behavior: it normally patrols back and forth, but will
 
 The player can use the **roll** to avoid incoming attacks and the **wall jump** to climb vertical sections of the environment.
 
-https://github.com/user-attachments/assets/abf6633b-58cd-4daa-a528-000fc33d28cc
+<video src=https://github.com/user-attachments/assets/abf6633b-58cd-4daa-a528-000fc33d28cc" muted autoplay loop width="100%"></video>
+
 
 ## Development Status
 
